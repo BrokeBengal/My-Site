@@ -1,0 +1,146 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Roboto Mono', monospace;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 3%;
+  margin-top: 90px;
+  margin-bottom: 90px;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Black And White Picture', sans-serif;
+  font-family: 'Gaegu', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-family: 'Black And White Picture', sans-serif;
+  font-family: 'Gaegu', cursive;
+  color: #66BFBF;
+}
+
+.student {
+  font-weight: normal;
+  line-height: 2.0;
+}
+
+h3 {
+  font-family: 'Black And White Picture', sans-serif;
+  font-family: 'Gaegu', cursive;
+  color: #11999E;
+}
+
+.top-container {
+  background-color: #b6d5e1;
+  position: relative;
+  padding-top: 100px;
+}
+
+.contact-me {
+  margin-bottom: 90px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px:
+}
+
+.middle-container {}
+
+.bottom-container {
+  margin-bottom: 0px;
+  background-color: #b6d5e1;
+  border: 1px solid #b6d5e1;
+  padding-top: 40px;
+}
+
+.copyright {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  text-align: left;
+  line-height: 2.0;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.profile-pic {
+  height: 200px;
+  border-radius: 25%;
+  margin-top: 60px;
+}
+
+.first-skill {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.second-skill {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skilldescription {
+  font-size: 15px;
+}
+
+.BUTTON_RTS {
+  -webkit-border-radius: 19px;
+  -moz-border-radius: 19px;
+  border-radius: 19px;
+  color: #66BFBF;
+  font-family: monospace;
+  font-size: 40px;
+  font-weight: 100;
+  padding: 26px;
+  background-color: #B6D5E1;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin-top: 60px;
+}
+
+.BUTTON_RTS:hover {
+  background: #FFFFFF;
+  border: solid #FFFFFF 1px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+.footer-link {
+  font-family: 'Black And White Picture', sans-serif;
+  font-family: 'Gaegu', cursive;
+  color: #66BFBF;
+  font-size: 20px;
+  text-decoration: none;
+}
